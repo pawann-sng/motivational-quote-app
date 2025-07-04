@@ -36,11 +36,11 @@ quotes = [
         "description": "Turn dreams into reality."
     },
     {
-        "quote": "Success doesn’t just find you. You have to go out and get it.",
+        "quote": "Success doesnt just find you. You have to go out and get it.",
         "description": "Be proactive and chase your goals."
     },
     {
-        "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
+        "quote": "The harder you work for something, the greater youll feel when you achieve it.",
         "description": "Effort leads to satisfaction."
     },
     {
@@ -134,8 +134,7 @@ quotes = [
     {
         "quote": "You don’t have to be great to start, but you have to start to be great.",
         "description": "Begin to become better."
-    }
-    
+    },
     {
         "quote": "Every sunrise is a new opportunity.",
         "description": "Embrace each day with hope and determination."
@@ -235,8 +234,7 @@ quotes = [
     {
         "quote": "Let today be the start of something new.",
         "description": "Take the first step and the rest will follow."
-    }
-
+    },
 ]
 
 # Title and description
