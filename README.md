@@ -4,8 +4,14 @@ A simple app that displays a daily motivational quote to boost your spirits.
 
 ## How to Use
 
-- Run the app daily to get inspired.
-- Add your own quotes by editing the quotes.txt file.
+- Make sure Python is installed on your system.
+- Open your terminal or command prompt.
+- Navigate to this project folder.
+- Run the app with this command:
+  
+  ```bash
+  python quote_app.py
+
 
 ## Author
 
